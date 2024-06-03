@@ -128,3 +128,192 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
+# Compiled source files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+
+# Spring Boot specific files
+spring.log
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# VS Code files
+.vscode/
+
+# Eclipse files
+.project
+.classpath
+.cproject
+.settings/
+target/
+bin/
+
+# Maven
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+
+# Other files and directories
+*.DS_Store
+*.bak
+*.swp
+*~
+.tmp/
+*.tmp
+*.log
+*.pid
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Spring Boot Devtools
+spring-boot-devtools.properties
+
+# Local environment settings
+.env
+
+
+
+#################################################
+
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+
+# Dependencies
+node_modules/
+jspm_packages/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Angular specific files
+.angular/
+.angular-cli.json
+.sass-cache/
+npm-debug.log
+yarn-error.log
+.yarn-integrity
+
+# Angular build tools
+coverage/
+test-results/
+build/
+logs/
+
+# Environment files
+src/environments/environment.*.ts
+
+# Compiled files
+*.dll
+*.exe
+*.out
+*.pid
+*.app
+*.dmg
+*.pkg
+*.deb
+
+# Service worker cache
+ngsw-worker.js
+ngsw.json
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+*.tmp
+*.old
+*.orig
+*.rej
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional cache directories
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+.next/
+.build/
+.vercel/
+.airflow/
+.turbo/
+.react/
+.remix/
+.sapper/
+.next/
+.sw/
+.polymer/
+.storybook/
+.npm-global/
+.rush/
+.spike/
+.r2/
+
